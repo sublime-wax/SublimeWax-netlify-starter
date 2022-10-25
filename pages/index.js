@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Boutique de tenue africaine en ligne" />
+        <Header title="Boutique de tenue Africaine en ligne" />
         <p className="description">
-          SublimeWax vous propose des tenues africaines: Robe africaine, jupe africaine, des bombers,</br>
+          SublimeWax vous propose des tenues africaines: Robe africaine, jupe africaine, des bombers,
           des hauts africians, des pantalons africians dans des tissus wax 100% en coton.
         </p>
         <p className="description">
