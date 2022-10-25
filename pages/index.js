@@ -17,11 +17,13 @@ export default function Home() {
           des hauts africians, des pantalons africians dans des tissus wax 100% en coton.
         </p>
         <p className="description">
-          Chaque pièce est unique et confectionné à la main dans nos differents ateliers.Nous choissisions des tissus wax de grande qualité et aux motifs tendances
+          Chaque pièce est unique et confectionné à la main dans nos differents ateliers. Nous choissisions des tissus wax de grande qualité et aux motifs tendances
         </p>
          <p className="description">
           Decouvrez sans plus tarder dans notre boutique:
          </p>
+         <p className="description">nos collections de <a href="https://www.sublime-wax.com/collections/robes" target="_blank">robes africaines et robes en wax</a> pour toutes occassions</p>
+ 
     
       </main>
 
