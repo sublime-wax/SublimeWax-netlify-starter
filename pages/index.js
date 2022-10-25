@@ -23,7 +23,12 @@ export default function Home() {
           Decouvrez sans plus tarder dans notre boutique:
          </p>
          <p className="description">nos collections de <a href="https://www.sublime-wax.com/collections/robes" target="_blank">robes africaines et robes en wax</a> pour toutes occassions</p>
- 
+         <a href="https://https://twitter.com/sublimewax" 
+          class="twitter-follow-button" 
+          data-show-count="false">Follow @sublimewax
+         </a>
+         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    
     
       </main>
 
