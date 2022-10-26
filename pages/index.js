@@ -23,9 +23,11 @@ export default function Home() {
           Decouvrez sans plus tarder dans notre boutique:
          </p>
          <p className="description">nos collections de <a href="https://www.sublime-wax.com/collections/robes" target="_blank">robes africaines et robes en wax</a> pour toutes occassions</p>
-         
          <p className="description">
-          Nous proposons egalement  <a href="https://www.sublime-wax.com/collections/tenue-africaine-pour-couple-sublimewax">des tenues africaines pour couples</a> pour plus de comlicités pour vos ceremonies.
+          Fait mains par des artisans Kenya <a href="https://www.sublime-wax.com/collections/massai-pearl-earrings">Des bijoux en perles Massai</a>
+         </p>
+         <p className="description">
+          Nous proposons également  <a href="https://www.sublime-wax.com/collections/tenue-africaine-pour-couple-sublimewax">des tenues africaines pour couples</a> pour plus de d'harmonie et de complicités pour vos ceremonies.
          </p> 
          <a href="https://https://twitter.com/sublimewax" 
           class="twitter-follow-button" 
