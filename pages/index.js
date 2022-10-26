@@ -22,7 +22,10 @@ export default function Home() {
          <p className="description">
           Decouvrez sans plus tarder dans notre boutique:
          </p>
-         <p className="description">nos collections de <a href="https://www.sublime-wax.com/collections/robes" target="_blank">robes africaines et robes en wax</a> pour toutes occassions</p>
+         <p className="description">Nos collections de <a href="https://www.sublime-wax.com/collections/robes" target="_blank">robes africaines et robes en wax</a> pour toutes occassions</p>
+         <p className="description">
+          De magnifiques <a href="https://www.sublime-wax.com/collections/woman-african-skirts">jupes africaines et jupe en wax</a> pour vous sublimer.
+         </p>     
          <p className="description">
           Fait mains par des artisans Kenya <a href="https://www.sublime-wax.com/collections/massai-pearl-earrings">Des bijoux en perles Massai</a>
          </p>
