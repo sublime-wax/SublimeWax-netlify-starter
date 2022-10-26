@@ -35,7 +35,7 @@ export default function Home() {
          <p className="description">
           Nous proposons également  <a href="https://www.sublime-wax.com/collections/tenue-africaine-pour-couple-sublimewax">des tenues africaines pour couples</a> pour plus de d'harmonie et de complicités pour vos ceremonies.
          </p>
-         </br>
+
          <a href="https://https://twitter.com/sublimewax" 
           class="twitter-follow-button" 
           data-show-count="false">Follow @sublimewax
