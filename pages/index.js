@@ -25,13 +25,17 @@ export default function Home() {
          <p className="description">Nos collections de <a href="https://www.sublime-wax.com/collections/robes" target="_blank">robes africaines et robes en wax</a> pour toutes occassions</p>
          <p className="description">
           De magnifiques <a href="https://www.sublime-wax.com/collections/woman-african-skirts">jupes africaines et jupe en wax</a> pour vous sublimer.
-         </p>     
+         </p>
+         <p className="description">
+          Notre collection de  <a href="https://www.sublime-wax.com/collections/accessories">bijoux africain</a>, des produits originaux comme nos <a href="https://www.sublime-wax.com/collections/accessories/products/sublimewax-leather-bag-and-bogolan-gana">sacs en cuir, bogolan ou en wax </a>
+         </p>
          <p className="description">
           Fait mains par des artisans Kenya <a href="https://www.sublime-wax.com/collections/massai-pearl-earrings">Des bijoux en perles Massai</a>
          </p>
          <p className="description">
           Nous proposons également  <a href="https://www.sublime-wax.com/collections/tenue-africaine-pour-couple-sublimewax">des tenues africaines pour couples</a> pour plus de d'harmonie et de complicités pour vos ceremonies.
-         </p> 
+         </p>
+         </br>
          <a href="https://https://twitter.com/sublimewax" 
           class="twitter-follow-button" 
           data-show-count="false">Follow @sublimewax
